@@ -2,9 +2,9 @@
 
 ![app icon](./img/appIcon.png)
 
-An automated analysis algorithm counts the number of people in an image.
+A deep learning model automatically counts the number of people in any image.
 
-No internet connection or login is required, and it's free without ads.
+No internet connection or login is required—completely ad-free.
 
 
 <p float="left">
@@ -14,11 +14,11 @@ No internet connection or login is required, and it's free without ads.
     <img src="./img/preview_4.jpg" alt="preview_4" width="200" />
 </p>
 
-It's hard to manually count how many people are in a scene.
+Counting people in a scene manually can be challenging.
 
-This app automates that counting process.
+This app simplifies this by automating the counting process.
 
-It operates on-device, so no internet connection or login is needed.
+It functions entirely on-device, ensuring privacy and accessibility without the need for internet or login.
 
-- Optimized for overhead shots of crowds ranging from 10 to 500 people
-- The app may not function properly on older models.
+- Optimized for overhead views of crowds ranging from 10 to 500 people.
+- This app may not function properly on older devices.
